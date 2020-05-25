@@ -7,7 +7,7 @@ Do you hate frameworks? do you hate NPM? you still want some of that SPA goodnes
 preture is easy to install (add it to `<head>` in html)
 ```html
 <head>
-  <script src="URL" defer></script>
+  <script src="https://raw.githubusercontent.com/UlisseMini/preture/master/preture.js" defer></script>
 </head>
 ```
 
