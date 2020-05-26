@@ -15,3 +15,7 @@ preture gets all `<a>` tags on your site which point to other pages on your site
 prefetches them, then when a link is clicked js handles the transition instantly.
 
 The implementation is quite flakey, Please report bugs in issues :)
+
+## TODO
+
+- Add async cache invalidation
